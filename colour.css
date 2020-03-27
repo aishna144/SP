@@ -1,0 +1,11 @@
+html
+{
+	background: #d5f4e6
+}
+body
+{   background: pink;
+	max-width: 80%;
+	margin: 0 auto;
+	font-family: sans-serif;
+	font-size: 1em;
+}
